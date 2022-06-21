@@ -1,1 +1,1 @@
-# Somatic-and-Germline-Variant-Identification-from-Paired-End-Tumor-and-Normal-Samples
+# Identification of Somatic and Germline Variants from Normal and Tumor Sample Pairs
